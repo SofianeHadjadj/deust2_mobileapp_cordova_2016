@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:layout_gravity="top"
+	android:theme="@style/MyTheme">
+
+	<ListView
+	    android:id="@+id/listView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+		android:layout_below="@+id/btn_select"
+		android:layout_alignStart="@+id/btn_select"
+		android:layout_marginTop="18dp" />
+
+	<Button
+		android:id="@+id/btn_select"
+		android:layout_width="150dp"
+		android:layout_height="wrap_content"
+		android:text="@string/btn_selctionner"
+
+		android:layout_above="@+id/mainTextView1"
+		android:layout_alignParentStart="true" />
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/list_contacts"
+		style="@style/TitleText"
+		android:id="@+id/mainTextView1"
+		android:layout_below="@+id/btn_valider1"
+		android:layout_toEndOf="@+id/btn_select" />
+
+	<Button
+		android:id="@+id/btn_valider1"
+		android:layout_width="150dp"
+		android:layout_height="wrap_content"
+		android:text="@string/btn_valider"
+		android:layout_alignParentTop="true"
+		android:layout_alignEnd="@+id/mainTextView1" />
+
+
+</RelativeLayout>

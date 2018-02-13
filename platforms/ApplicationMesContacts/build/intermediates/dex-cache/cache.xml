@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_1360a8a1beaf749ef36e2aef186f038dc3dcd3ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_b1652dcb409e00114964a12b34a47362426d8572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9ab2a1384754de3048dfd1d7e0955605d86fc73">
+        <dex dex="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eacac9e6ebfd73c0cc98d8ec9c4eab4a19d7f5db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f341b479c47e34453ab0a96c802b1d8c11098b3">
+        <dex dex="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_653e12e13a8f62345c793019026481b00ce54ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Home\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\wamp64\www\Projet_Scolaire\Application_Mobile\Cordova\ue236_sofiane_hadjadj_semaine4\platforms\ApplicationMesContacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_abb2a77f1add3b1ce14b417a0487bb05d4385b1f\classes.dex" />
+    </item>
+
+</items>

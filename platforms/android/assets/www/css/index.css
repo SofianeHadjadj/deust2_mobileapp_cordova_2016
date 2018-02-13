@@ -1,0 +1,226 @@
+@font-face {
+    font-family: 'Amethyst';
+       src:  url('../fonts/Amethyst.ttf') format('opentype');
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'starjedi';
+       src:  url('../fonts/Starjedi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'avantgardelt-extralight';
+     src:    url('../fonts/avantgardelt-extralight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    width:100%;
+}
+#indexBody{
+    background:url(../img/back.png) no-repeat fixed;
+}
+#secondBody{
+    background:url(../img/back3.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    z-index: 80;
+}
+
+#wel {
+    font-family: 'Amethyst';
+    color: white;
+    position:relative;             
+    padding-top:30%;
+    font-size: 40px;      
+  margin:auto;  
+                                
+}
+#cvtic {
+  position:relative;
+  margin-left:25%;
+  margin-top:10%;
+  width: 50%;
+}
+
+/* Landscape layout (with min-width) */
+@media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
+    #wel {
+        padding-top:10%;
+        font-size:60px;
+    }
+    #cvtic {
+      position:relative;
+      margin-left:30%;
+      margin-top:5%;
+      width: 25%;
+    }
+    #btn1 {
+    height:6em;
+        position:absolute;
+        left: 2em;
+        bottom:2em;
+    }
+        #btn2 {
+    height:6em;
+        position:absolute;
+        left: 2em;
+        bottom:2em;
+    }
+}
+
+
+h1 {
+    font-family: 'Amethyst';
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+
+#btn1 {
+height:6em;
+position: absolute;
+    left: 75%;
+    bottom: 1em;
+        z-index: 10;
+}
+#btn2 {
+height:6em;
+position: absolute;
+    left: 75%;
+    bottom: 1em;
+}
+
+.event {
+    border-radius:4px;
+    -webkit-border-radius:4px;
+    color:#FFFFFF;
+    font-size:12px;
+    margin:0px 30px;
+    padding:2px 0px;
+}
+
+.event.listening {
+    background-color:#333333;
+    display:block;
+}
+
+.event.received {
+    background-color:#4B946A;
+    display:none;
+}
+
+@keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+@-webkit-keyframes fade {
+    from { opacity: 1.0; }
+    50% { opacity: 0.4; }
+    to { opacity: 1.0; }
+}
+ 
+.blink {
+    animation:fade 3000ms infinite;
+    -webkit-animation:fade 3000ms infinite;
+}
+
+#titles
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    bottom: 0;
+    left: 50%;
+    margin-left: -4.2em;
+    font-size: 350%;
+    text-align: justify;
+    overflow: hidden;
+    transform-origin: 50% 100%;
+    transform: perspective(300px) rotateX(25deg);
+}
+#titles:after
+{
+    position: absolute;
+    content: ' ';
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 60%;
+    background-image: linear-gradient(top, rgba(0,0,0,1) 0%, transparent 100%);
+    pointer-events: none;
+}
+#titlecontent
+{
+    position: absolute;
+    top: 100%;
+    animation: scroll 100s linear 4s infinite;
+}
+
+@keyframes scroll {
+    0% { top: 100%; }
+    100% { top: -170%; }
+}
+#titlecontent p
+{
+color: white;
+text-align: justify;
+}
+#listDer {
+    font-family: 'avantgardelt-extralight';
+color: white;
+text-align: justify;
+font-size: 28px;
+list-style-type: none;
+background-color: rgba(0, 0, 0, 0.1);
+}
+#firstEl{
+padding-top: 30px;
+}
+#fderEl{
+padding-bottom: 30px;
+}
+#listDer li{
+-moz-text-align-last:justify;
+text-align-last : justify;
+padding-right: 30px;
+}
+#textP2{
+    font-family: 'avantgardelt-extralight';
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    -moz-text-align-last:justify;
+    text-align-last : justify;
+    padding: 30px;
+    font-weight: bold;
+     text-shadow: #ff4d4d 0.1em 0.1em 0.2em,#ff4d4d -0.1em -0.1em 0.2em;
+}
+.boldList{
+font-weight: bold;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+#yod{
+    width: 60%;
+}

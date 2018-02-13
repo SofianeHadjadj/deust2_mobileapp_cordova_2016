@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">ApplicationMesContacts</string>
+     <string name="action_settings">Settings</string>
+     <string name="list_contacts">Liste des contacts</string>
+     <string name="btn_find">Afficher</string>
+     <string name="btn_selctionner">Tous selectionner</string>
+     <string name="btn_valider">Valider</string>
+     <string name="btn_annuler">Annuler</string>
+     <string name="mess_choix1">(prenom), text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1 text1  !</string>
+     <string name="mess_choix2">(prenom), text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2 text2  !</string>
+     <string name="mess_choix3">(prenom), text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 text3 </string>
+     <string name="mess_choix4">(prenom), text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4 text4  !</string>
+     <string name="btn_envoyer">Envoyer</string>
+     
+     
+</resources>

@@ -1,0 +1,473 @@
+[
+    {
+        "outputFile": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 135,
+                        "endColumn": 36,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 38,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 98,
+                        "endColumn": 35,
+                        "endOffset": 132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 134,
+                    "endColumn": 44,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 174,
+                        "endColumn": 41,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endColumn": 39,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 60,
+                        "endColumn": 36,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 57,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 55,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 39,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 39,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 52,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 5,
+                        "startOffset": 118,
+                        "endColumn": 53,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 59,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 57,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 47,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 393,
+                        "endColumn": 48,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 47,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 5,
+                        "startOffset": 1089,
+                        "endColumn": 48,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 45,
+                    "endOffset": 623
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 5,
+                        "startOffset": 234,
+                        "endColumn": 46,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 628,
+                    "endColumn": 61,
+                    "endOffset": 685
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 5,
+                        "startOffset": 281,
+                        "endColumn": 62,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endColumn": 47,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 5,
+                        "startOffset": 344,
+                        "endColumn": 48,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 60,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 5,
+                        "startOffset": 172,
+                        "endColumn": 61,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endColumn": 160,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 5,
+                        "startOffset": 442,
+                        "endColumn": 161,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 160,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 5,
+                        "startOffset": 604,
+                        "endColumn": 161,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 159,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 5,
+                        "startOffset": 766,
+                        "endColumn": 160,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 160,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 5,
+                        "startOffset": 927,
+                        "endColumn": 161,
+                        "endOffset": 1083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1733,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1888
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1893,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2421
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 699,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2426,
+                    "endLine": 46,
+                    "endColumn": 9,
+                    "endOffset": 2772
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\themes.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 133,
+                        "endLine": 13,
+                        "endColumn": 9,
+                        "endOffset": 485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2777,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3039
+                },
+                "from": {
+                    "file": "C:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1250,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1517
+                    }
+                }
+            }
+        ]
+    }
+]

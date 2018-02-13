@@ -1,0 +1,7 @@
+#Thu Feb 09 17:51:06 CET 2017
+base.0=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eacac9e6ebfd73c0cc98d8ec9c4eab4a19d7f5db
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_653e12e13a8f62345c793019026481b00ce54ece\\classes.dex
+base.1=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_653e12e13a8f62345c793019026481b00ce54ece
+file.0=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eacac9e6ebfd73c0cc98d8ec9c4eab4a19d7f5db\\classes.dex

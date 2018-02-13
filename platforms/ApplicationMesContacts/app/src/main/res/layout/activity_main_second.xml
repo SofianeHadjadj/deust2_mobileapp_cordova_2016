@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dip" 
+    android:theme="@style/MyTheme">
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:text="@string/btn_valider" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="right"
+        android:text="@string/btn_annuler" />
+
+   <Button
+       android:id="@+id/button3"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:layout_gravity="right"
+       android:text="@string/btn_envoyer" />
+   
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+        <TextView
+            android:id="@+id/listNameContact"
+            android:layout_width="fill_parent"
+            android:layout_height="74dp"
+            android:text="@string/list_contacts" />
+
+</ScrollView>         
+
+       
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >        
+        
+       <TextView
+           android:id="@+id/choix1"
+           android:layout_width="fill_parent"
+           android:layout_height="100dp"
+           android:text="@string/mess_choix1" />
+
+        <TextView
+            android:id="@+id/choix2"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:text="@string/mess_choix2" />
+
+       <TextView
+           android:id="@+id/choix3"
+           android:layout_width="fill_parent"
+           android:layout_height="100dp"
+           android:text="@string/mess_choix3" />
+
+       <TextView
+           android:id="@+id/choix4"
+           android:layout_width="fill_parent"
+           android:layout_height="100dp"
+           android:text="@string/mess_choix4" />
+        
+
+    </LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>

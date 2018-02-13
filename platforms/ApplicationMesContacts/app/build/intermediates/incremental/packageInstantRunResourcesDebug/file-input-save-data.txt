@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Feb 09 17:50:47 CET 2017
+2.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\contact_info.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main_second.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_bleu_button.9.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\wamp64\\www\\Projet_Scolaire\\Application_Mobile\\Cordova\\ue236_sofiane_hadjadj_semaine4\\platforms\\ApplicationMesContacts\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE
